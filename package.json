@@ -24,8 +24,7 @@
     "postcss": "^6.0.21",
     "postcss-less": "^3.1.4",
     "strip-css-comments": "^4.1.0",
-        "less-bundle-promise": "github:iaminnasr/less-bundle-promise",
-
+     "less-bundle-promise": "github:iaminnasr/less-bundle-promise",
   },
   "keywords": [
     "antd",
